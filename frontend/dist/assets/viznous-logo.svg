@@ -1,0 +1,18 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Viznous IT Technologies logo">
+  <rect width="320" height="320" rx="72" fill="#06152E"/>
+  <path d="M60 86C60 71.6406 71.6406 60 86 60H234C248.359 60 260 71.6406 260 86V234C260 248.359 248.359 260 234 260H86C71.6406 260 60 248.359 60 234V86Z" fill="url(#paint0_linear)"/>
+  <path d="M88 92H146.6L160.7 156.9L174.8 92H232L196.2 228H129.8L88 92Z" fill="white"/>
+  <path d="M126 92L160.7 207.7L195.5 92H174.8L160.7 156.9L146.6 92H126Z" fill="#6EE7FF"/>
+  <path d="M93 238H227" stroke="#6EE7FF" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="93" cy="238" r="14" fill="#22C55E"/>
+  <circle cx="160" cy="238" r="14" fill="#6EE7FF"/>
+  <circle cx="227" cy="238" r="14" fill="#A78BFA"/>
+  <path d="M98 72L128 72M192 72L222 72M72 128L72 98M248 128L248 98M72 222L72 192M248 222L248 192" stroke="white" stroke-opacity="0.36" stroke-width="8" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="60" y1="60" x2="260" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B5CFF"/>
+      <stop offset="0.48" stop-color="#5B21B6"/>
+      <stop offset="1" stop-color="#04B8D8"/>
+    </linearGradient>
+  </defs>
+</svg>
