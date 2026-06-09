@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Viznous IT Technologies — Premium Website v2.0
 
 ## Project Structure
@@ -94,3 +95,6 @@ VITE_API_BASE_URL=http://127.0.0.1:8000/api
 
 ## Backend API (Unchanged)
 All original FastAPI routes, database connections, auth, and models are preserved intact.
+=======
+# Website
+>>>>>>> c9744ba75fe8f3a21968f1e87038341a1792015e
